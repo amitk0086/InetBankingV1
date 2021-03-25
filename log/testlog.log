@@ -1,0 +1,66 @@
+2021-02-20 14:43:20,027 - eBanking -INFO - URL is Opened
+2021-02-20 14:43:20,730 - eBanking -INFO - Entered User name
+2021-02-20 14:43:21,033 - eBanking -INFO - Entered Password
+2021-02-20 14:43:31,340 - eBanking -INFO - Login test pass
+2021-02-20 17:54:04,466 - eBanking -INFO - URL is Opened
+2021-02-20 17:54:05,092 - eBanking -INFO - Entered User name
+2021-02-20 17:54:05,354 - eBanking -INFO - Entered Password
+2021-02-20 17:54:09,470 - eBanking -INFO - Login test pass
+2021-02-20 18:31:24,686 - eBanking -INFO - URL is Opened
+2021-02-20 18:31:25,359 - eBanking -INFO - Entered User name
+2021-02-20 18:31:25,754 - eBanking -INFO - Entered Password
+2021-02-20 18:31:31,705 - eBanking -INFO - Login test pass
+2021-02-20 18:42:56,212 - eBanking -INFO - URL is Opened
+2021-02-20 18:42:56,794 - eBanking -INFO - Entered User name
+2021-02-20 18:42:56,983 - eBanking -INFO - Entered Password
+2021-02-20 18:43:01,089 - eBanking -INFO - Login test pass
+2021-02-20 18:43:41,657 - eBanking -INFO - URL is Opened
+2021-02-20 18:44:28,456 - eBanking -INFO - Entered User name
+2021-02-20 18:44:39,602 - eBanking -INFO - Entered Password
+2021-02-20 18:44:43,162 - eBanking -INFO - Login test pass
+2021-02-20 19:39:26,079 - eBanking -INFO - URL is Opened
+2021-02-20 19:39:26,774 - eBanking -INFO - Entered User name
+2021-02-20 19:39:27,032 - eBanking -INFO - Entered Password
+2021-02-20 19:39:36,185 - eBanking -INFO - Login test pass
+2021-02-20 19:42:09,237 - eBanking -INFO - URL is Opened
+2021-02-20 19:42:09,742 - eBanking -INFO - Entered User name
+2021-02-20 19:42:10,018 - eBanking -INFO - Entered Password
+2021-02-20 19:42:15,386 - eBanking -INFO - Login test pass
+2021-02-21 10:53:08,251 - eBanking -INFO - User name is provided
+2021-02-21 10:53:08,694 - eBanking -INFO - Password provided
+2021-02-21 10:53:14,371 - eBanking -INFO - Login Passed
+2021-02-21 10:53:21,619 - eBanking -INFO - User name is provided
+2021-02-21 10:53:21,890 - eBanking -INFO - Password provided
+2021-02-21 10:53:28,715 - eBanking -INFO - User name is provided
+2021-02-21 10:53:28,981 - eBanking -INFO - Password provided
+2021-02-21 10:53:35,131 - eBanking -INFO - User name is provided
+2021-02-21 10:53:35,407 - eBanking -INFO - Password provided
+2021-02-21 13:08:19,043 - eBanking -INFO - User name is provided
+2021-02-21 13:08:19,382 - eBanking -INFO - Passsword is provided
+2021-02-21 13:08:29,521 - eBanking -INFO - providing customer details....
+2021-02-21 13:08:43,739 - eBanking -INFO - validation started....
+2021-02-21 13:08:43,829 - eBanking -INFO - test case passed....
+2021-02-21 13:13:07,878 - eBanking -INFO - URL is Opened
+2021-02-21 13:13:08,684 - eBanking -INFO - Entered User name
+2021-02-21 13:13:09,014 - eBanking -INFO - Entered Password
+2021-02-21 13:13:12,649 - eBanking -INFO - Login test pass
+2021-02-21 13:13:24,925 - eBanking -INFO - User name is provided
+2021-02-21 13:13:25,126 - eBanking -INFO - Password provided
+2021-02-21 13:13:32,210 - eBanking -INFO - Login Passed
+2021-02-21 13:13:41,255 - eBanking -INFO - User name is provided
+2021-02-21 13:13:41,598 - eBanking -INFO - Password provided
+2021-02-21 13:13:48,924 - eBanking -INFO - User name is provided
+2021-02-21 13:13:49,224 - eBanking -INFO - Password provided
+2021-02-21 13:13:56,874 - eBanking -INFO - User name is provided
+2021-02-21 13:13:57,215 - eBanking -INFO - Password provided
+2021-02-21 13:14:13,136 - eBanking -INFO - User name is provided
+2021-02-21 13:14:13,626 - eBanking -INFO - Passsword is provided
+2021-02-21 13:14:22,157 - eBanking -INFO - providing customer details....
+2021-02-21 13:14:35,539 - eBanking -INFO - validation started....
+2021-02-21 13:14:35,588 - eBanking -INFO - test case passed....
+2021-02-21 13:16:39,348 - eBanking -INFO - User name is provided
+2021-02-21 13:16:39,485 - eBanking -INFO - Password provided
+2021-02-21 13:16:46,406 - eBanking -INFO - User name is provided
+2021-02-21 13:16:46,639 - eBanking -INFO - Password provided
+2021-02-21 13:16:53,459 - eBanking -INFO - User name is provided
+2021-02-21 13:16:53,738 - eBanking -INFO - Password provided
